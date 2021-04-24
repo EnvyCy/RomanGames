@@ -1,0 +1,3 @@
+C:/Users/cichy/CLionProjects/BacaF-Igrzyska/cmake-build-debug/CMakeFiles/BacaF_Igrzyska.dir
+C:/Users/cichy/CLionProjects/BacaF-Igrzyska/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cichy/CLionProjects/BacaF-Igrzyska/cmake-build-debug/CMakeFiles/rebuild_cache.dir

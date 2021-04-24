@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BacaF_Igrzyska" targetName="BacaF_Igrzyska" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e0728f3-ac61-4b94-a245-94003123f41b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cXLIxc6UaeWUtkSOa6rkg6jxW0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BacaF_Igrzyska" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BacaF_Igrzyska" TARGET_NAME="BacaF_Igrzyska" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BacaF_Igrzyska" RUN_TARGET_NAME="BacaF_Igrzyska">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e0728f3-ac61-4b94-a245-94003123f41b" name="Default Changelist" comment="" />
+      <created>1590669915225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590669915225</updated>
+      <workItem from="1590669916447" duration="12811000" />
+      <workItem from="1590849371799" duration="89000" />
+      <workItem from="1590856579861" duration="16358000" />
+      <workItem from="1590929443700" duration="21710000" />
+      <workItem from="1591014080459" duration="8590000" />
+      <workItem from="1591034696517" duration="9188000" />
+      <workItem from="1618151782422" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="885" height="245" key="GridCell.Tab.0.bottom" timestamp="1591045541555">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="885" height="245" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1591045541555" />
+    <state width="885" height="245" key="GridCell.Tab.0.center" timestamp="1591045541555">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="885" height="245" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1591045541555" />
+    <state width="885" height="245" key="GridCell.Tab.0.left" timestamp="1591045541555">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="885" height="245" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1591045541555" />
+    <state width="885" height="245" key="GridCell.Tab.0.right" timestamp="1591045541555">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="885" height="245" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1591045541555" />
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom" timestamp="1591041386110">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1591041386110" />
+    <state width="1815" height="363" key="GridCell.Tab.1.center" timestamp="1591041386110">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1591041386110" />
+    <state width="1815" height="363" key="GridCell.Tab.1.left" timestamp="1591041386110">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1591041386110" />
+    <state width="1815" height="363" key="GridCell.Tab.1.right" timestamp="1591041386110">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1591041386110" />
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591043817380">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591043817380" />
+    <state x="732" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1590931122615">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="732" y="183" key="refactoring.ChangeSignatureDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590931122615" />
+    <state x="647" y="250" width="672" height="677" key="run.anything.popup" timestamp="1591020852475">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="647" y="250" width="672" height="677" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1591020852475" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1591017632243">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1591017632243" />
+  </component>
+</project>
